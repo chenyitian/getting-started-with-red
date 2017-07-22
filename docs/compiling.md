@@ -8,7 +8,7 @@ Red is being actively developed, and new features are available regularly. To us
 That's it. To compile a script:
 
 - Open the Rebol interpreter
-- At the console, type "do/args \%red.r {\%yourscript.red}"
+- At the console, type "do/args &percnt;red.r {&percnt;yourscript.red}"
 
 When compilation is complete, you'll see the file name of the created executable displayed (i.e., yourscript.exe).
 
