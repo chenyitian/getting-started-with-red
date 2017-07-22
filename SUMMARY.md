@@ -4,7 +4,7 @@
 - [2. Compiling Native Red Apps From Source](/docs/compiling.md)
 - [3. Red Fundamentals](/docs/fundamentals.md)
   - [3.1 Functions](/docs/fundamentals.md#31-functions)
-  - [3.2 Data Persistence - Red Requires No Database System](/docs/fundamentals.md#32-data-persistence-red-requires-no-database-system)
+  - [3.2 Data Persistence - Red Requires No Database System](/docs/fundamentals.md#32-data-persistence---red-requires-no-database-system)
   - [3.3 Variables](/docs/fundamentals.md#33-variables)
   - [3.4 Conditional Evaluations](/docs/fundamentals.md#34-conditional-evaluations)
   - [3.5 Using Text Strings and Concatenation](/docs/fundamentals.md#35-using-text-strings-and-concatenation)
